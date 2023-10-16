@@ -1,0 +1,29 @@
+[33mcommit d181fba6814d8dedbeb6a63de76ece7a88cb2c1b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: JungHun98 <j7papa@naver.com>
+Date:   Mon Oct 16 10:57:29 2023 +0900
+
+    remove: discussion 파일 삭제
+
+[33mcommit 1491d2b16c2d4f760d5e3f7f1ece50a9dcfc8f69[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: 김상두 <puki4416@gmail.com>
+Date:   Mon Oct 16 10:00:41 2023 +0900
+
+    docs : 1주차 스터디 내용 정리
+
+[33mcommit 42a3620c6e15f5bb94805b3a4739790f33488fbd[m
+Author: 김상두 <puki4416@gmail.com>
+Date:   Mon Oct 16 09:57:29 2023 +0900
+
+    fix : 구성원 변경
+
+[33mcommit 50db4b5279acec44fa400fd0c6edd866276f8688[m
+Author: 김상두 <puki4416@gmail.com>
+Date:   Sun Oct 8 19:38:38 2023 +0900
+
+    진행방식 및 주차별 진행내용 공유
+
+[33mcommit 17ad354c73c474a667631a572f7315d70d59ed18[m
+Author: 김상두 <puki4416@gmail.com>
+Date:   Sun Oct 8 19:18:20 2023 +0900
+
+    initial commit
