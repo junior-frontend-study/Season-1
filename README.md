@@ -31,14 +31,6 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/crystal993">
-        <img src="https://avatars.githubusercontent.com/crystal993" width="100px;" alt="" /><br />
-        <sub>
-          <b>김수정</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/puki4416">
         <img src="https://avatars.githubusercontent.com/puki4416" width="100px;" alt="" /><br />
         <sub>
